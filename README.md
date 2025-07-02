@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhamad Fahmi 👋</h1>
 
 <p align="center">
-  💻 Fullstack Developer | 🚀 Scalable Systems Enthusiast | 🧠 UI/UX Explorer
+  💻 Fullstack Developer | 🚀 Scalable Systems Enthusiast | 🧠 AI Explorer
 </p>
 
 <p align="center">
